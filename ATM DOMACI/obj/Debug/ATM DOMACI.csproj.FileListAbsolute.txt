@@ -1,0 +1,7 @@
+C:\Users\stefa\source\repos\ATM DOMACI\ATM DOMACI\bin\Debug\ATM DOMACI.exe.config
+C:\Users\stefa\source\repos\ATM DOMACI\ATM DOMACI\bin\Debug\ATM DOMACI.exe
+C:\Users\stefa\source\repos\ATM DOMACI\ATM DOMACI\bin\Debug\ATM DOMACI.pdb
+C:\Users\stefa\source\repos\ATM DOMACI\ATM DOMACI\obj\Debug\ATM DOMACI.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\ATM DOMACI\ATM DOMACI\obj\Debug\ATM DOMACI.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\ATM DOMACI\ATM DOMACI\obj\Debug\ATM DOMACI.exe
+C:\Users\stefa\source\repos\ATM DOMACI\ATM DOMACI\obj\Debug\ATM DOMACI.pdb
